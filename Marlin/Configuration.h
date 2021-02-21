@@ -1724,7 +1724,7 @@
   #define NOZZLE_CLEAN_CIRCLE_MIDDLE NOZZLE_CLEAN_START_POINT
 
   // Move the nozzle to the initial position after cleaning
-  #define NOZZLE_CLEAN_GOBACK
+  //#define NOZZLE_CLEAN_GOBACK
 
   // For a purge/clean station that's always at the gantry height (thus no Z move)
   //#define NOZZLE_CLEAN_NO_Z
